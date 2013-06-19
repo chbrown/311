@@ -1,0 +1,9 @@
+{
+  "staticDependencies": {
+    "underscore": "*",
+    "jquery": "*",
+    "jquery.tablesorter": "*",
+    "backbone": "*"
+  },
+  "staticPattern": "static/lib/{file}"
+}
